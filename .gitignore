@@ -5,3 +5,6 @@ requirements_dump.txt
 mlartifacts
 requirements.txt
 Workflow_CI
+Monitoring_dan_Logging/prometheus
+Monitoring_dan_Logging/mlruns_downloaded
+Monitoring_dan_Logging/data
